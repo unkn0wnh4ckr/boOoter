@@ -1,5 +1,5 @@
 # boOoter
-A spooky booter for halloween this python script contains a variety of dos attacks and some information gathering 
+A spooky booter for halloween this python script contains a variety of dos attacks and some information gathering this is not a botnet / ddos tool
 
 (RUN AS ROOT AND CLONE IN THE /root/ FOLDER)
 
