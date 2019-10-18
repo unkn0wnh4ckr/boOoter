@@ -15,10 +15,21 @@ A spooky booter for halloween this python script contains a variety of dos attac
 `./install.sh`
 
 # RUN
+make sure to have a username
+and password to login
+
+
 `cd boOoter`
 
 
 `python boOoter.py`
+
+# ADD USER AND PASSWORD
+`cd boOoter`
+
+
+`python adduser.py`
+
 # UPDATE
 `cd boOoter`
 
