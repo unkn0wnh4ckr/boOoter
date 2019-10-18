@@ -3,5 +3,9 @@ A spooky booter for halloween this python script contains a variety of dos attac
 
 # INSTALL
 `cd boOoter`
+
+
 `chmod +x *`
+
+
 `./install.sh`
