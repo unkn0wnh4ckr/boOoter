@@ -4,7 +4,7 @@ A spooky booter for halloween this python script contains a variety of dos attac
 (RUN AS ROOT AND CLONE IN THE /root/ FOLDER)
 
 ![](boOoter.png)
-e
+
 # INSTALL
 `cd boOoter`
 
