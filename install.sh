@@ -5,6 +5,7 @@ apt install hping3
 apt install tor
 apt install postgresql
 apt install python[socks]
+apt install python-socks
 
 pip install scapy
 pip install ssl
